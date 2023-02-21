@@ -1,3 +1,1 @@
-meu primeiro sistema no git
-alterando ReadMe
-nova linha adicionada
+meu primero sistema no git (alterado e atualizado)
