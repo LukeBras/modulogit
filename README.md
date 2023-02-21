@@ -1,4 +1,2 @@
-meu primeiro sistema no git
-
-alteração no ReadME para descrever melhor o meu sistema.
-altaçaõ feita no master
+meu primero sistema no git (alterado e atualizado)
+Mauricio é um viadão da porra.
